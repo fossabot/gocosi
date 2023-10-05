@@ -6,6 +6,7 @@
 [![codecov](https://codecov.io/gh/doomshrine/gocosi/branch/main/graph/badge.svg?token=UGGL63A65L)](https://codecov.io/gh/doomshrine/gocosi)
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/doomshrine/gocosi/tests.yaml)](https://github.com/shanduur/gocosi/actions/workflows/tests.yaml)
 [![Static Badge](https://img.shields.io/badge/COSI_Specification-v1alpha1-green)](https://github.com/kubernetes-sigs/container-object-storage-interface-spec/tree/v0.1.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoomshrine%2Fgocosi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdoomshrine%2Fgocosi?ref=badge_shield)
 
 A Container Object Storage Interface (COSI) library and other helpful utilities created with Go, that simplify process of writing your own Object Storage Plugin (OSP).
 
@@ -130,3 +131,7 @@ This project was inspired by [rexray/gocsi](https://github.com/rexray/gocsi) and
 <!-- Named Links --->
 
 [otlp-exporter-spec]: https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/protocol/exporter.md
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoomshrine%2Fgocosi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdoomshrine%2Fgocosi?ref=badge_large)
